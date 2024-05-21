@@ -105,7 +105,7 @@ public class Main {
         /*============= exercise 7 =============*/
         {
             System.out.println("============= exercise 7 =============");
-            int num1 = 0, num2 = 0;
+            int num1, num2;
             System.out.println("Enter number one");
             System.out.println("Enter number two");
             if (in.hasNextDouble()) {
@@ -131,7 +131,7 @@ public class Main {
         /*============= exercise 8 =============*/
         {
             System.out.println("============= exercise 8 =============");
-            int num1 = 0, num2 = 0;
+            int num1, num2;
             System.out.println("Enter number one");
             System.out.println("Enter number two");
             if (in.hasNextDouble()) {
